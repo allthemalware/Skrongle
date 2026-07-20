@@ -1,0 +1,13 @@
+# build output
+build/
+*.clap
+*.o
+
+# packaging
+*.zip
+*.tar.xz
+
+# third-party reference material — not mine to redistribute
+Torsion_Front.png
+Torsion_Operation_Manual_*.pdf
+lectric_panda_automata_*
